@@ -37,7 +37,7 @@ function threeFive(startIndex, stopIndex, threeCallback, fiveCallback) {
 
 }
 
-//Passing the callback functions as parameters to the new functions:
+//callback functions  params 
 
 function sayThree(threeCallback) {
   console.log(threeCallback);
